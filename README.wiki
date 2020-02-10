@@ -1,0 +1,11 @@
+<h1>Simpliest web application</h1>
+
+<pre>
+Anta Baka!
+</pre>
+
+= Guesslang_form =
+
+Here you won't see any useful info haha!
+
+This programm determine the language of the input text using the guesslang algorithm: https://github.com/artyom/guesslanguage/tree/std
